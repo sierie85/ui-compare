@@ -1,0 +1,22 @@
+{
+  "name": "ui-compare",
+  "version": "1.0.0",
+  "description": "Compare screenshots from given url",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Sebastian Brieschenk",
+  "license": "ICS",
+  "dependencies": {
+    "chalk": "^2.3.1",
+    "clear": "0.0.1",
+    "clui": "^0.3.6",
+    "figlet": "^1.2.0",
+    "fs-extra": "^5.0.0",
+    "inquirer": "^5.1.0",
+    "pixelmatch": "^4.0.2",
+    "puppeteer": "^1.1.0",
+    "zip-folder": "^1.0.0"
+  }
+}
