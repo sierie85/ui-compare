@@ -8,4 +8,4 @@ yarn-error.log*
 # Dependency directories
 node_modules/
 
-projects/*
+projects/*.*
