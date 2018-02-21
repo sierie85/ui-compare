@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "author": "Sebastian Brieschenk",
-  "license": "ICS",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^2.3.1",
     "clear": "0.0.1",
